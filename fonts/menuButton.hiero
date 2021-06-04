@@ -1,0 +1,35 @@
+font.name=Podkova
+font.size=23
+font.bold=false
+font.italic=false
+font.gamma=1.8
+font.mono=false
+
+font2.file=C:\Users\ashley\projects\assets\WatchedClock\fonts\Podkova-VariableFont_wght.ttf
+font2.use=true
+
+pad.top=1
+pad.right=3
+pad.bottom=3
+pad.left=1
+pad.advance.x=-4
+pad.advance.y=-4
+
+glyph.native.rendering=false
+glyph.page.width=512
+glyph.page.height=128
+glyph.text=ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n1234567890"!`?'.,;:()[]{}<>|/@\^$?-%+=#_&~\n \n¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿\nÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞß\nàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ•
+
+render_type=0
+
+effect.class=com.badlogic.gdx.tools.hiero.unicodefont.effects.ShadowEffect
+effect.Color=1c2833
+effect.Opacity=1.0
+effect.X distance=2.0
+effect.Y distance=2.0
+effect.Blur kernel size=0
+effect.Blur passes=1
+
+effect.class=com.badlogic.gdx.tools.hiero.unicodefont.effects.ColorEffect
+effect.Color=ffffff
+
