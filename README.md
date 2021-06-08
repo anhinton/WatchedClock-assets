@@ -19,7 +19,7 @@ Project Authors is licensed under the SIL Open Font License, Version
 (contact@cyreal.org) is licensed under the SIL Open Font License,
 Version 1.1
 
-`icons/info_icon.png` "Info" by
+`icons/info_icon` "Info" by
 [Google](https://material.io/resources/icons) is licensed under
 [Apache license version
 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
