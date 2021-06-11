@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\ashley\projects\assets\WatchedClock\itch.io\banner.png"
+   sodipodi:docname="banner.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 425 70"
+   height="70"
+   width="425">
+  <defs
+     id="defs2">
+    <rect
+       id="rect1484"
+       height="52"
+       width="472"
+       y="51"
+       x="554" />
+    <rect
+       id="rect1478"
+       height="470"
+       width="466"
+       y="13"
+       x="1008" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="302"
+     inkscape:window-x="1072"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     inkscape:cy="46.5"
+     inkscape:cx="89.5"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Background">
+    <rect
+       style="display:inline;fill:#ea9d7e;fill-opacity:1;stroke:none;stroke-width:32;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect933"
+       width="425"
+       height="70"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Logo"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(0.05208239,0,0,0.05208239,18.020779,21.322984)"
+       id="g1524"
+       style="display:inline">
+      <path
+         d="M 422.00195,109.00785 A 510.80536,437.70333 0 0 0 -58,397.0059 510.80536,437.70333 0 0 0 422.00195,685.00785 510.80536,437.70333 0 0 0 902,397.0059 510.80536,437.70333 0 0 0 422.00195,109.00785 Z m -0.002,32 a 256,256 0 0 1 256,256.00001 256,256 0 0 1 -256,256 256,256 0 0 1 -256,-256 256,256 0 0 1 256,-256.00001 z"
+         style="fill:#1c2833;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path859" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path887"
+         d="m 376.69048,173.91154 44.44671,222.23357 v 0"
+         style="fill:none;stroke:#1c2833;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path891"
+         d="M 421.13719,396.1451 574.1753,369.88113"
+         style="fill:none;stroke:#1c2833;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path906"
+         d="m 291.23684,67.20953 c 0,0 -28.28427,-35.35534 -28.28427,-59.39697 0,-24.04163 33.94113,-45.25483 33.94113,-45.25483 0,0 33.94112,-22.62742 33.94112,-35.35534 0,-12.727915 -7.07106,-31.1127 -29.69848,-45.25483 -22.62742,-14.14214 -42.42641,-36.76956 -42.42641,-36.76956"
+         style="fill:none;stroke:#1c2833;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#1c2833;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 413.69207,59.02367 c 0,0 -28.28427,-35.35533 -28.28427,-59.39697 0,-24.04163 33.94113,-45.25483 33.94113,-45.25483 0,0 33.94112,-22.62742 33.94112,-35.355335 0,-12.72792 -7.07106,-31.112705 -29.69848,-45.254825 -22.62742,-14.14214 -42.42641,-36.76956 -42.42641,-36.76956"
+         id="path906-1" />
+      <path
+         style="fill:none;stroke:#1c2833;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 545.69207,61.02367 c 0,0 -28.28426,-35.35533 -28.28426,-59.39697 0,-24.04162 33.94112,-45.25483 33.94112,-45.25483 0,0 33.94114,-22.62742 33.94114,-35.35534 0,-12.727915 -7.07107,-31.1127 -29.69849,-45.25482 -22.62742,-14.14214 -42.42641,-36.76955 -42.42641,-36.76955"
+         id="path906-9" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Text"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <text
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1478);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1476"
+       xml:space="preserve" />
+    <text
+       y="0"
+       x="170.66406"
+       transform="translate(-605,-48)"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:0.85;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1484);fill:#1c2833;fill-opacity:1;stroke:none;"
+       id="text1482"
+       xml:space="preserve"><tspan
+         x="745.99965"
+         y="70.836695"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;text-align:end;text-anchor:end;fill:#1c2833;fill-opacity:1">A Watched Clock Never
+</tspan></tspan><tspan
+         x="959.33325"
+         y="95.079646"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;text-align:end;text-anchor:end;fill:#1c2833;fill-opacity:1">Boils</tspan></tspan></text>
+  </g>
+</svg>
